@@ -5,7 +5,6 @@ The atlases in this folder are based on the Colin-27 Average Brain:
 
     http://www.bic.mni.mcgill.ca/ServicesAtlases/Colin27
 
-
 When using these atlases, please cite: 
 
     Chakravarty MM, Bertrand G, Hodge CP, Sadikot AF, Collins DL. The creation
@@ -25,6 +24,17 @@ Label: 4 - right striatum
 Label: 5 - right globus pallidus
 Label: 6 - right thalamus
 
+surfaces: 
+  - thalamus: 
+    - surfaces/thalamus-left.obj 
+    - surfaces/thalamus-right.obj
+  - globus pallidus: 
+    - surfaces/globus_pallidus-left.obj 
+    - surfaces/globus_pallidus-right.obj 
+  - striatum: 
+    - surfaces/striatum-left.obj 
+    - surfaces/striatum-right.obj 
+
 Subdivisions of the striatum
 ----------------------------
 
@@ -40,6 +50,10 @@ Label: 111 - right precommissural putamen
 Label: 112 - right precommissural caudate 
 Label: 114 - right postcommissural caudate
 Label: 115 - right postcommissural putamen 
+
+Surface labels: 
+  - surfaces/striatum-subdivisions-left-labels.txt
+  - surfaces/striatum-subdivisions-right-labels.txt
 
 Subdivisions of the thalamus
 ----------------------------
@@ -68,3 +82,7 @@ Label: 28  - right pulvinar
 Label: 29  - right ventral anterior nucleus
 Label: 30  - right ventral lateral nucleus
 Label: 31  - right ventral posterior nucleus
+
+Surface labels: 
+  - surfaces/thalamus-subdivisions-left-labels.txt
+  - surfaces/thalamus-subdivisions-right-labels.txt

@@ -43,7 +43,7 @@ label file: labels/striatum-subdivisions.mnc
 Label: 100 - left nucleus accumbens / ventral striatum
 Label: 101 - left precommissural putamen 
 Label: 102 - left precommissural caudate 
-Label: 104 - left postcommissural putamen 
+Label: 104 - left postcommissural caudate 
 Label: 105 - left postcommissural putamen 
 Label: 110 - right nucleus accumbens / ventral striatum
 Label: 111 - right precommissural putamen 

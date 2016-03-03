@@ -4,16 +4,18 @@ High-resolution in vivo atlases of the cerebellum
 
 These atlases, and the manual segmentation protocol used to produce them are described in: 
 
+```
     Park, M.T., Pipitone, J., Baer, L., Winterburn, J.L., Shah, Y., Chavez, S.,
     Schira, M.M., Lobaugh, N.J., Lerch, J.P., Voineskos, A.N., Chakravarty, M.M.
     High-resolution atlases of the cerebellum and cerebellar lobules at 3T:
     Derivation and automated segmentation using multiple automatically generated
     templates. NeuroImage (2014), in press.
+```
 
 To obtain the subject T1 and T2 images for these labels, or for more
 information, please visit: 
 
-  http://cobralab.ca/Cerebellum
+  http://cobralab.ca/atlases/Cerebellum.html
 
 Labels 
 ------

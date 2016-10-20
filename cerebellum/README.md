@@ -2,7 +2,7 @@ High-resolution in vivo atlases of the cerebellum
 =================================================
 
 
-These atlases, and the manual segmentation protocol used to produce them are described in: 
+These atlases, and the manual segmentation protocol used to produce them are described in:
 
 ```
     Park, M.T., Pipitone, J., Baer, L., Winterburn, J.L., Shah, Y., Chavez, S.,
@@ -13,11 +13,11 @@ These atlases, and the manual segmentation protocol used to produce them are des
 ```
 
 To obtain the subject T1 and T2 images for these labels, or for more
-information, please visit: 
+information, please visit:
 
-  http://cobralab.ca/atlases/Cerebellum.html
+  http://cobralab.ca/atlases/Cerebellum/
 
-Labels 
+Labels
 ------
 ```
 Label: 1   - left I-II

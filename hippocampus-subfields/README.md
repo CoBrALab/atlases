@@ -10,7 +10,7 @@ These atlases, and the manual segmentation protocol used to produce them are des
 To obtain the subject T1 and T2 images for these labels, or for more
 information, please visit:
 
-  http://cobralab.ca/atlases/Hippocampus/
+  http://cobralab.ca/atlases/Hippocampus-subfields/
 
 
 Labels

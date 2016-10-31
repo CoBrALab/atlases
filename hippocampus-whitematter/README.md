@@ -8,7 +8,7 @@ Amaral, R.S.C., Park, M.T.M., Devenyi, G.A., Pruessner, J.C.,  Pipitone, J., Win
 To obtain the subject T1 and T2 images for these labels, or for more
 information, please visit:
 
-  http://cobralab.ca/atlases/Hippocampus/
+  http://cobralab.ca/atlases/Hippocampus-whitematter/
 
 Labels
 ------

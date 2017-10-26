@@ -20,11 +20,11 @@ Labels:
 Surfaces:
 ------------
 - Thalamus:
-		- ``thalamus_left.obj``
-		- ``thalamus_right.obj``
+	- ``thalamus_left.obj``
+	- ``thalamus_right.obj``
 - Globus pallidus:
-		- ``gp_left.obj``
-		- ``gp_right.obj``
+	- ``gp_left.obj``
+	- ``gp_right.obj``
 - Striatum:
-		- ``striatum_left.obj``
-		- ``striatum_right.obj``
+	- ``striatum_left.obj``
+	- ``striatum_right.obj``

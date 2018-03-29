@@ -1,0 +1,93 @@
+"Label","Schaltenbrand and Wahren","Gloor","Hirai and Jones","Notes"
+1,"striatum",,,
+2,"cortex",,,
+3,"claustrum",,,
+4,"internal capsule",,,
+5,"Globus Pallidus (Pm)",,,
+6,"Nucleus amygdalae profundus lateralis (A.p.l)","Lateral nucleus (L)",,"amygdala"
+7,"Optic Tract (II)",,,
+8,"Nucleus amygdalae profundus intermedius (A.p.i)","Basal nucleus (B)",,"amygdala"
+9,"anterior commissure (Cm.a.)",,,
+10,"lateral medullary lamina (la.p.l)",,,
+11,"Globus Pallidus Internal (Pm.i)",,,
+12,"Globus Pallidus External (Pm.e)",,,
+13,"Anterior Perforated Substance (B)",,,
+14,"Nucleus amygdalae profundus lateralis (A.p.m)","Accessory Basal Nucleus (AB)",,"amygdala"
+15,"Ventro-oralis internus (V.o.i.)",,,"thalamus"
+16,"Stratum septi pellucidi (Str.sep)",,,
+17,"Pro-thalamicus principalis centralis (Pth. Pr. Ce.)","bed nucleus of the stria terminalis (BNST)",,"hypothalamus"
+19,"Nucleus facialis (VII)",,,
+20,"Nucleus amygdalae profundus ventralis (A.p.v)","Para Laminar nucleus (PL)",,"amygdala"
+21,"Medial medullary lamina (la.p.m)",,,
+22,"Stria medullaris thalami (st. m)",,,
+23,"Nucleus paraventricularis hypothalami (Pv)",,,
+24,"Nucleus Reticulatus Polaris (Rt.po.)",,,
+25,"Zona incerta (Z.i.)",,,
+26,"Nucleus lateropolaris thalami (Lpo)",,"Ventral Anterior Nucleus (VA)","thalamus:see labels 36, 89, 90"
+27,"Nucleus fasciculosus thalami (Fa)",,"Medioventral Nucleus (MV)","thalamus"
+28,"Nucleus Anterior Principalis (Apr)",,"Nucleus Anterventralis (AV)","thalamus"
+29,"Mamillary body (M.m)",,,
+35,"Fornix (Fx)",,,
+36,"Dorso-oralis externus (D.o.e)",,"Ventral Anterior Nucleus (VA)","thalamus:see labels 26, 89, 90 for HJ"
+37,"Nucleus Medialis (M)",,"Mediodorsal Nucleus (MD)","thalamus"
+39,"subthalamic nucleus (Sth)",,,
+40,"Lamella medialis thalami (La. M.)",,,"thalamus"
+41,"Campus Forellii (pars H2)",,,"thalamus"
+47,"pars compacta (Ni.c)/pars reticula (Ni.r)",,,"substantia nigra"
+48,"Ruber (Ru)",,,"red nucleus"
+49,"Nucleus Centralis (Ce.)",,"Central Median Nucleus (CM)","thalamus"
+51,"Nucleus Parafasiculairs (Pf.)",,,"thalamus"
+52,,,,"WM in red Nucleus and travelling towards the thalamus"
+53,"Nucleus Dorsalis superficialis (D.sf.)",,"Lateral dorsal Nucleus (LD)","thalamus"
+60,"Fasciculus gracillis Goll (G)",,,
+61,"Praegeniculatum (prG)",,,
+63,"Peduncle",,,
+64,"Nucleus peripendicularis (Ppd.)",,,"thalamus"
+66,"Ganglion habenulae medialis (H.m)",,,"forms Hb with 67"
+67,"Ganglion habenulae internus (H.i.)",,,"forms Hb with 66"
+68,"Corpus geniculatum mediale (G.m/G.Md)",,,
+70,"Nucleus Limitans (Li)",,"Posterior nucleus (Po)","thalamus"
+71,"Ventro-caudalis parvocell (V.c.pc)",,"Basal ventral medial nucleus/Ventral posterior inferior nucleus (VMb/VPI)","thalamus"
+73,"Lemniscus medialis (L.m.)",,,
+74,"Brachium colliculi inferioris (B.co.i)",,,
+75,"Nucleus Vestibularis (VIII)",,,
+76,"Area triangularis Wernicke (A.tr.W)",,,
+81,"Ventro-oralis medialis (V.o.m.)",,"Ventral Medial Nucleus (VM)","thalamus"
+86,"Ventro-oralis internus (V.o.i.)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+87,"Ventro-oralis anterior (V.o.a)",,"Ventral Lateral Anterior Nucleus (VLa)","thalamus: see labels 87, 88, 91, 123 for HJ"
+88,"Ventro-oralis posterior (V.o.p.)",,"Ventral Lateral Anterior Nucleus (VLa)","thalamus: see labels 87, 88, 91, 123 for HJ"
+89,"Dorso-oralis internus (D.o.i)",,"Ventral Anterior Nucleus (VA)","thalamus: see labels 26, 36, 90 for HJ"
+90,"Zentrolateralis oralis (Z.o.)",,"Ventral Anterior Nucleus (VA)","thalamus: see labels 87, 88, 91, 123 for HJ"
+91,"Ventro-intermedius internus (V.im.i)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+92,"Zentro-lateralis externus (Z.im.e)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+93,"Zentro-intermedius internus (Z.im.i)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+94,"Ventro-intermedius externus (V.im.e)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+95,"Ventro-caudalis internus (V.c.i)",,"Ventral Posterior Medial Nucleus (VPM)","thalamus: see label 95, 113"
+96,"Ventro-caudalis anterior internus (V.c.a.e)",,"Ventral Posterior Lateral Nucleus (VPLa)","thalamus: see labels 96, 97, 98 for HJ"
+97,"Zentro caudalis externis (Z.c.e)",,"Ventral Posterior Lateral Nucleus (VPLa)","thalamus: see labels 96, 97, 98 for HJ"
+98,"Zentro caudalis internis (Z.c.i)",,"Ventral Posterior Lateral Nucleus (VPLa)","thalamus: see labels 96, 97, 98 for HJ"
+99,"Dorso-caudalis (D.c.)",,"Lateral Posterior Nucleus (LP)","thalamus: see labels 99, 100, 101"
+100,"Nucleus pulvinaris orolateralis (Pu.o.l.)",,"Lateral Posterior Nucleus (LP)","thalamus: see labels 99, 100, 101"
+101,"Nucleus pulvinaris oromedialis (Pu.o.m.)",,"Lateral Posterior Nucleus (LP)","thalamus: see labels 99, 100, 101"
+102,"Ventro-caudalis portae (V.c.por)",,"Anterior Pulvinal Nucleus (Pla)","thalamus: see labels 102, 103"
+103,"Nucleus pulvinaris oroventralis (Pu.o.v)",,"Anterior Pulvinal Nucleus (Pla)","thalamus: see labels 102, 103"
+104,"Nucleus ventroimtermedius internus (V.im.i)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+105,"Nucleus pulvianris intergeniculatus (Pu.ig)",,"Inferior Pulvinar Nucleus (Pli)","thalamus"
+106,"Nucleus pulvianris (Pu.m)",,"Medial Pulvinar Nucleus (Plm)","thalamus"
+107,"Pulvinar laterale (Pu.l)",,"Lateral Pulvinar Nucleus (Pll)","thalamus"
+108,"corpus collosum",,,
+109,"Cerebro-Spinal Fluid",,,
+110,"general white matter",,,
+111,"Dorso-intermedius internus (D.im.i)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+112,"Dorso-intermedius externus (D.im.e)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 91, 92, 93, 94, 104, 111, 112, 114, 120 for HJ"
+113,"Ventro-caudalis anterior internus (V.c.a.i)",,"Ventral Posterior Medial Nucleus (VPM)","thalamus: see label 95, 113"
+114,"Zentrolateralis intermedius (Z.im)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus"
+115,"Ventro-caudalis externus (v.c.e)",,"Ventral Posterior Lateral Nucleus (VPLa)","thalamus: see labels 115, 118"
+116,"Nucleus pulvinaris superficialis (Pu.sf)",,,"thalamus"
+117,"Ventro-caudalis parvocell externus (V.c.pc.e)",,"Ventral Posterior Inferior Nucleus (VPI)","thalamus"
+118,"Ventro-caudalis posterior externus (V.c.p.e)",,"Ventral Posterior Lateral Nucleus (VPLa)","thalamus"
+119,"Pulvinar mediale (Pu.m)",,"Medial Pulvinar Nucleus (Plm)","thalamus"
+120,"Ventro-oralis posterior (V.o.p)",,"Ventral Lateral Posterior Nucleus (VLp)","thalamus: see labels 86, 104, 120 for HJ"
+121,"Zentro-intermedius externus (Z.im.e)",,"Ventral Lateral Anterior Nucleus (VLa)","thalamus"
+122,"Ventro-intermedius externus (V.im.e)",,"Ventral Lateral Anterior Nucleus (VLa)","thalamus"
+123,"Dorso-oralis internus (D.o.i)",,"Ventral Lateral Anterior Nucleus (VLa)","thalamus: see labels 87, 88, 91, 123 for HJ"

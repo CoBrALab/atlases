@@ -8,3 +8,5 @@ both templates and subjects.
 These segmentations have been gently QC'd but not extensively
 so. Errors in your MNI registration are likely to be larger
 than the errors in these segmentations however.
+
+All model/atlas files can be downloaded from http://nist.mni.mcgill.ca/?page_id=714

@@ -3,7 +3,7 @@ Subcortical Atlases of the striatum, globus pallidus and thalamus
 
 When using these atlases, please cite:
 
-	Tullo,S., Devenyi, G.A., Patel, R., Park, M.T.M., Collins, D.L. & Chakravarty, M.M. (In submission). Warping an atlas derived from serial histology to 5 high-resolution MRIs. Scientific Data.
+	Tullo, S., Devenyi, G. A., Patel, R., Park, M. T. M., Collins, D. L., & Chakravarty, M. M. (2018). Warping an atlas derived from serial histology to 5 high-resolution MRIs. Scientific data, 5, 180107.
 
 Labels
 -------

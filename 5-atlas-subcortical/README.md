@@ -28,3 +28,8 @@ Surfaces:
 - Striatum:
 	- ``striatum_left.obj``
 	- ``striatum_right.obj``
+
+labels_manual/
+------------------
+
+The `labels_manual/` directory contains manually corrected versions of the original label release.
